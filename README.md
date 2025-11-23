@@ -9,5 +9,7 @@ Libraries required:
 5) maltplotlib
 6) sklearn
 
+Language: Python
+
 Data: The dataset was provided by the professor for the DSA7010 course and includes a wide range of attributes suitable for various analytical projects.
 
